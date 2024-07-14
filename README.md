@@ -71,3 +71,8 @@ node donate-cli.js
 - **Enhanced Security Features**: Implement multi-signature wallets and additional security measures to safeguard donations.
 - **Analytics Dashboard**: Create a dashboard to track donations, displaying metrics and statistics for transparency and accountability.
 - **Mobile Application**: Develop a mobile application to enable donations on the go, providing a seamless user experience.
+- **Joining the DApp using WorldID**: Integrate WorldID to prevent impersonation and fraud by ensuring that users are authenticated and verified.
+- **Adding Socials**: Allow users to link their social media accounts to further verify their identity and build trust within the community.
+- **Using Circle Infrastructure**: Utilize Circle's payment infrastructure to simplify and streamline payment processes.
+- **Governing Structure for Tagging Fraud**: Implement a community-driven governance system to tag and identify fraudulent activity. A warning note will appear on the page of users tagged as fraud. WorldID integration will help prevent spam and ensure that tagging is done by genuine users.
+- **Adding Blockscout**: Integrate Blockscout to display detailed transaction information, helping users verify if their donation has succeeded or failed.
